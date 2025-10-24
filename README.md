@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Abhyudaya (aka Megamind)
+# 👋 Hey, I'm Abhyudaya
 
 🚀 11th Grade | Aspiring AI & Software Engineer  
 💻 Learning Python | HTML | CSS | Machine Learning  
