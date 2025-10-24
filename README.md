@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey, I'm Abhyudaya (aka Megamind)
 
-<!--
-**abhyudaya-codes/abhyudaya-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 11th Grade | Aspiring AI & Software Engineer  
+💻 Learning Python | HTML | CSS | Machine Learning  
+📚 Preparing for IIT JEE while building real projects  
+🧠 Focused on AI, Web Dev, and self-growth
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- Python 🐍  
+- HTML, CSS, JavaScript 🌐  
+- Git & GitHub 🧩  
+- Learning AI & Machine Learning 🤖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning
+- Python automation
+- Frontend development
+- Building my first personal portfolio
+
+### 📫 Connect with me
+- LinkedIn:
+- Email: [abhyudaya.work2009@gmail.com]
+
+> “Always building. Always learning.” 🔥
