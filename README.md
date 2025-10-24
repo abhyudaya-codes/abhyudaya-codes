@@ -18,6 +18,7 @@
 
 ### 📫 Connect with me
 - LinkedIn:
-- Email: [abhyudaya.work2009@gmail.com]
+- Email: [abhyudaya.work2009@gmail.com](mailto:abhyudaya.work2009@gmail.com)
+
 
 > “Always building. Always learning.” 🔥
